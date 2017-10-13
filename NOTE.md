@@ -16,3 +16,5 @@
 `vm_override` set to true when using the simulator out of VM
 `host-ip` should set to the IP of the PC or MAC
 `host-override` set to true
+
+hover controller Kp = 10,Ki = 5, Kd = 5
